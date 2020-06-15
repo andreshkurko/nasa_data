@@ -40,7 +40,8 @@ if (!photoData) return <div />;
                         gesture="media"
                         allow="encrypted-media"
                         allowFullScreen
-                        className="photo"    
+                        className="photo"
+                           
                     />
                 )}
 
