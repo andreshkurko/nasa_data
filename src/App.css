@@ -11,6 +11,13 @@ body {
 
 /* navbar ---------- */
 
+.nasa-logo {
+  margin-top: 200px;
+  margin-left: -300px;
+  display: flex;
+  justify-content: center;
+}
+
 .navbar {
   background-color: rgba(22, 22, 22, 0.8);
   display: flex;
@@ -81,11 +88,6 @@ body {
   height: 100vh;
   align-items: center;
   justify-content: center;
-}
-
-.link-copy {
-  font-size: 10px;
-  background: #f59494;
 }
 
 .home-link {
