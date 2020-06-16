@@ -83,6 +83,11 @@ body {
   justify-content: center;
 }
 
+.link-copy {
+  font-size: 10px;
+  background: #f59494;
+}
+
 .home-link {
   font-size: 40px;
   background: #f59494;
